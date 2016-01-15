@@ -12,3 +12,10 @@ To start any of the browsers, run as many times as needed:
 ./start_chrome.sh
 ./start_firefox.sh
 ```
+
+## Mac users
+
+If you are using mac, you can find out the docker IP with:
+```
+./get_mac_ip.sh
+```
